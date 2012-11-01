@@ -1,0 +1,13 @@
+<script src="views/shared/static/js/jquery.js"></script>
+<script src="views/shared/static/js/bootstrap-transition.js"></script>
+<script src="views/shared/static/js/bootstrap-alert.js"></script>
+<script src="views/shared/static/js/bootstrap-modal.js"></script>
+<script src="views/shared/static/js/bootstrap-dropdown.js"></script>
+<script src="views/shared/static/js/bootstrap-scrollspy.js"></script>
+<script src="views/shared/static/js/bootstrap-tab.js"></script>
+<script src="views/shared/static/js/bootstrap-tooltip.js"></script>
+<script src="views/shared/static/js/bootstrap-popover.js"></script>
+<script src="views/shared/static/js/bootstrap-button.js"></script>
+<script src="views/shared/static/js/bootstrap-collapse.js"></script>
+<script src="views/shared/static/js/bootstrap-carousel.js"></script>
+<script src="views/shared/static/js/bootstrap-typeahead.js"></script>
